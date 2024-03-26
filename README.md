@@ -2,9 +2,9 @@
 Simple Stateless Messenger
 
 
-`cd` into cognite-messenger folder
-install node modules using `npm i`
-start dev server using `npm start`
+`cd` into cognite-messenger folder \n
+install node modules using `npm i` \n
+start dev server using `npm start` \n
 
 Chat away..!
 
